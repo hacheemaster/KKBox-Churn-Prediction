@@ -1,0 +1,4 @@
+#ignore all csv, zip, and scala files
+*.csv
+*.7z
+*.scala
